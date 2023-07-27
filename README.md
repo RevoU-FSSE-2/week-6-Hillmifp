@@ -29,3 +29,6 @@ In the integrated terminal
 With the container running, you can access your Node.js application at http://localhost:3001 (assuming your application is running on port 3000 inside the container). If your Node.js application is listening on a different port, map the container port to a port on your host system using the -p flag.
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(4).png?raw=true)
 
+# Result 
+This is the result
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(2).png?raw=true)
