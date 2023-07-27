@@ -13,3 +13,8 @@ Inside the "nodejs_project" directory, create a file named "Dockerfile" (with no
 Open the "Dockerfile" and add the following content:
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(7).png?raw=true)
 
+# Step 3: Build the Docker Image
+Now, open Visual Studio Code and navigate to the "nodejs_project" directory.
+
+Open the integrated terminal in Visual Studio Code and run the following command to build the Docker image:
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(6).png?raw=true)
