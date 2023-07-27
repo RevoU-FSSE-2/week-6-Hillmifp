@@ -11,4 +11,4 @@ Ensure that you have your Node.js application files inside a directory named "no
 Inside the "nodejs_project" directory, create a file named "Dockerfile" (with no file extension) using a text editor. This file will contain instructions to build a Docker image for your Node.js application.
 
 Open the "Dockerfile" and add the following content:
-![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(1).png)
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(1).png?raw=true)
