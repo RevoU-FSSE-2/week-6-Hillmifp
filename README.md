@@ -24,3 +24,7 @@ With the Docker image built, you can run a Docker container based on that image.
 
 In the integrated terminal
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(5).png?raw=true)
+
+# Step 5: Access the Running Application
+With the container running, you can access your Node.js application at http://localhost:3001 (assuming your application is running on port 3000 inside the container). If your Node.js application is listening on a different port, map the container port to a port on your host system using the -p flag.
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(4).png?raw=true)
