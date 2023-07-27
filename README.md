@@ -12,3 +12,4 @@ Inside the "nodejs_project" directory, create a file named "Dockerfile" (with no
 
 Open the "Dockerfile" and add the following content:
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(7).png?raw=true)
+
