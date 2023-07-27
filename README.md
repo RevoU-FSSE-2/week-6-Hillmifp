@@ -18,3 +18,9 @@ Now, open Visual Studio Code and navigate to the "nodejs_project" directory.
 
 Open the integrated terminal in Visual Studio Code and run the following command to build the Docker image:
 ![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(6).png?raw=true)
+
+# Step 4: Run the Docker Container
+With the Docker image built, you can run a Docker container based on that image.
+
+In the integrated terminal
+![alt text](https://github.com/RevoU-FSSE-2/week-6-Hillmifp/blob/main/dokumentasi/Dokumentasi%20(5).png?raw=true)
